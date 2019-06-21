@@ -78,7 +78,7 @@ main(){
              elif [ $nomor = "2" ]; then
                     load
                     clear
-                    cd camp
+                    cd file
                     bash camp
              elif [ $nomor = "3" ]; then
                     load
