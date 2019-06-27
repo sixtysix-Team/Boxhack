@@ -398,6 +398,7 @@ printf "\e[1;92m+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+--\e[0m\n"
 sleep 2
 
 }
+clear
 banner
 dependencies
 start1
